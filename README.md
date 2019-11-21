@@ -7,3 +7,5 @@ Check out the [report](report.pdf) to know more.
 
 ## Instructions to run the project:
 Install a LAMP stack. Place these files in `/var/www/html` directory. You also have to create a supporting database. A [sample database](publication_project_db.sql) has been included. Now everything should be accessible via a web browser.
+
+![](screenshot1.png)
